@@ -1,4 +1,4 @@
-public class Main {
+public class Main implements GestorFiguras {
     public static void main(String[] args) {
 
         //Definimos los valores de los atributos de las figuras
@@ -26,5 +26,8 @@ public class Main {
         System.out.println("Area del rectángulo: " + vectorFiguras[1].getAreaFigura());
         System.out.println("Area del triángulo: " + vectorFiguras[2].getAreaFigura());
         System.out.println("Area del cuadrado: " + vectorFiguras[3].getAreaFigura());
+
+        GestorFiguras.sumaAreas(vectorFiguras);
+        GestorFiguras.sort(vectorFiguras);
     }
 }
