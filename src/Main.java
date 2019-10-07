@@ -15,7 +15,7 @@ public class Main implements GestorFiguras {
         Figura k = new Cuadrado(lado1);
 
         //Creamos un vector de  figuras y lo rellenamos
-        Figura[] vectorFiguras = new Figura[10];
+        Figura[] vectorFiguras = new Figura[4];
         vectorFiguras[0] = c;
         vectorFiguras[1] = r;
         vectorFiguras[2] = t;
