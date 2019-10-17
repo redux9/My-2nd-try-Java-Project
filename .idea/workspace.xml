@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4642317-9753-48d9-9b18-bccdb9cd585e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ej2-Queues/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ej2-Queues/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ej2-Queues/src/QueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ej2-Queues/src/TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacro Minimo 1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figuras intento 2/Figura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figuras intento 2/Figura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figuras intento 2/GestorFiguras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figuras intento 2/GestorFiguras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figuras intento 2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figuras intento 2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GestorFiguras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFiguras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
