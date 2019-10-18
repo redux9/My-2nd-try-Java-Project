@@ -6,9 +6,11 @@
       <change afterPath="$PROJECT_DIR$/../Ej2-Queues/src/Queue.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ej2-Queues/src/QueueImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ej2-Queues/src/TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestFiguras.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Simulacro Minimo 1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GestorFiguras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFiguras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figuras intento 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Figuras intento 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figuras intento 2/Main.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -30,7 +32,11 @@
   <component name="ProjectId" id="1RqdpCLi7ZDkpw4aQjBPusqFsFE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ej2-Queues" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestFiguras.setUp">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Figuras intento 2" />
@@ -60,8 +66,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestFiguras" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Figuras intento 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFiguras" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFiguras.setUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Figuras intento 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFiguras" />
+      <option name="METHOD_NAME" value="setUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestFiguras.setUp" />
+        <item itemvalue="JUnit.TestFiguras" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
